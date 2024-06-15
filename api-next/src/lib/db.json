@@ -1,0 +1,844 @@
+{
+    "castMembers": [
+      {
+        "id": 1,
+        "name": "Roberto Gómez Bolaños"
+      },
+      {
+        "id": 2,
+        "name": "Ramón Valdés"
+      },
+      {
+        "id": 3,
+        "name": "Carlos Villagrán"
+      },
+      {
+        "id": 4,
+        "name": "María Antonieta de las Nieves"
+      },
+      {
+        "id": 5,
+        "name": "Florinda Meza"
+      },
+      {
+        "id": 6,
+        "name": "Rubén Aguirre"
+      },
+      {
+        "id": 7,
+        "name": "Édgar Vivar"
+      },
+      {
+        "id": 8,
+        "name": "Angelines Fernández"
+      },
+      {
+        "id": 9,
+        "name": "Horacio Gómez Bolaños"
+      },
+      {
+        "id": 10,
+        "name": "Raúl 'Chato' Padilla"
+      }
+    ],
+    "characters": [
+      {
+        "id": 1,
+        "showId": 1,
+        "name": "Chaves",
+        "description": "Um garoto órfão e ingênuo que vive em um barril."
+      },
+      {
+        "id": 2,
+        "showId": 1,
+        "name": "Seu Madruga",
+        "description": "Pai da Chiquinha, vive fugindo do aluguel e está sempre desempregado, mas é muito esforçado."
+      },
+      {
+        "id": 3,
+        "showId": 1,
+        "name": "Quico",
+        "description": "Um menino mimado, filho de Dona Florinda, que ostenta seus brinquedos."
+      },
+      {
+        "id": 4,
+        "showId": 1,
+        "name": "Chiquinha",
+        "description": "Filha do Seu Madruga, é esperta e muitas vezes sarcástica."
+      },
+      {
+        "id": 5,
+        "showId": 1,
+        "name": "Dona Florinda",
+        "description": "Mãe do Quico e dona da vila, sempre protege seu filho e tem afeição pelo Professor Girafales."
+      },
+      {
+        "id": 6,
+        "showId": 1,
+        "name": "Professor Girafales",
+        "description": "Professor dos alunos da escolinha, é alto e apaixonado por Dona Florinda."
+      },
+      {
+        "id": 7,
+        "showId": 1,
+        "name": "Seu Barriga",
+        "description": "Proprietário da vila, está sempre tentando cobrar o aluguel atrasado."
+      },
+      {
+        "id": 8,
+        "showId": 1,
+        "name": "Nhonho",
+        "description": "Filho do Seu Barriga, é um menino bom, mas comilão."
+      },
+      {
+        "id": 9,
+        "showId": 1,
+        "name": "Dona Clotilde",
+        "description": "Uma senhora idosa, apaixonada pelo Seu Madruga e que é erroneamente apelidada de Bruxa do 71 pelas crianças."
+      },
+      {
+        "id": 10,
+        "showId": 1,
+        "name": "Godinez",
+        "description": "Aluno da escolinha, pouco falante e muito distraído."
+      },
+      {
+        "id": 11,
+        "showId": 1,
+        "name": "Jaiminho, o Carteiro",
+        "description": "O carteiro preguiçoso da vila que sempre tenta evitar a fadiga."
+      },
+      {
+        "id": 12,
+        "showId": 2,
+        "name": "Chapolin Colorado",
+        "description": "O herói atrapalhado de coração valente que sempre aparece quando alguém precisa de ajuda."
+      },
+      {
+        "id": 13,
+        "showId": 2,
+        "name": "Dr. Chapatin",
+        "description": "Um médico idoso e um pouco esquecido, mas com boa intenção."
+      },
+      {
+        "id": 14,
+        "showId": 2,
+        "name": "Chaparrón Bonaparte",
+        "description": "Um homem comum que frequentemente se encontra em situações absurdas e confusões."
+      },
+      {
+        "id": 15,
+        "showId": 2,
+        "name": "Lucas Tañeda",
+        "description": "Um homem leal e amigo de Chapolin, que muitas vezes o acompanha em suas aventuras."
+      },
+      {
+        "id": 16,
+        "showId": 2,
+        "name": "Peterete",
+        "description": "Outro personagem recorrente que se junta a Chapolin em diversas ocasiões."
+      },
+      {
+        "id": 17,
+        "showId": 2,
+        "name": "Tripa Seca",
+        "description": "Um dos vilões recorrentes que Chapolin enfrenta, conhecido por sua risada característica."
+      },
+      {
+        "id": 18,
+        "showId": 2,
+        "name": "Quase Nada",
+        "description": "Um bandido trapalhão que tenta, sem sucesso, ser um grande criminoso."
+      },
+      {
+        "id": 19,
+        "showId": 2,
+        "name": "Racha Cuca",
+        "description": "Um vilão inteligente e calculista que coloca Chapolin e seus amigos em desafios complicados."
+      },
+      {
+        "id": 20,
+        "showId": 2,
+        "name": "Super Sam",
+        "description": "Um super-herói americano, sátira do Superman, que aparece ocasionalmente para 'ajudar'."
+      },
+      {
+        "id": 21,
+        "showId": 2,
+        "name": "Pança Louca",
+        "description": "Um gângster corpulento e outro antagonista que Chapolin muitas vezes enfrenta."
+      },
+      {
+        "id": 22,
+        "showId": 2,
+        "name": "Menina do Barril",
+        "description": "Uma personagem doce e inocente que é uma paródia da Chiquinha de Chaves."
+      },
+      {
+        "id": 23,
+        "showId": 2,
+        "name": "Rosa, a Rumorosa",
+        "description": "Uma mulher que é notória por espalhar rumores e causar confusão."
+      },
+      {
+        "id": 24,
+        "showId": 2,
+        "name": "Pirata Alma Negra",
+        "description": "Um temível pirata dos sete mares, conhecido por sua crueldade."
+      },
+      {
+        "id": 25,
+        "showId": 2,
+        "name": "Poucas Trancas",
+        "description": "Um vilão não muito inteligente, mas sempre envolvido em planos maléficos."
+      },
+      {
+        "id": 26,
+        "showId": 2,
+        "name": "Bruxa Baratuxa",
+        "description": "Uma bruxa malvada que frequentemente atrapalha os planos de Chapolin com suas magias."
+      },
+      {
+        "id": 27,
+        "showId": 2,
+        "name": "Cientista Louco",
+        "description": "Um gênio da ciência que, apesar de brilhante, usa seu conhecimento para o mal."
+      },
+      {
+        "id": 28,
+        "showId": 2,
+        "name": "Conde Terra Nova",
+        "description": "Um nobre vilão, cheio de planos de grandeza e sempre em conflito com Chapolin."
+      }
+    ],
+    "episodes": [
+      {
+        "id": 1,
+        "showId": 1,
+        "title": "O Matador de Lagartixas",
+        "description": "Chaves é acusado de matar as lagartixas da vila."
+      },
+      {
+        "id": 2,
+        "showId": 1,
+        "title": "Os Balões",
+        "description": "Chaves e Quico competem para ver quem tem mais balões."
+      },
+      {
+        "id": 3,
+        "showId": 1,
+        "title": "A Briga dos Pombinhos",
+        "description": "Seu Madruga e Dona Clotilde discutem e Chaves tenta intervir."
+      },
+      {
+        "id": 4,
+        "showId": 1,
+        "title": "O Festival da Boa Vizinhança",
+        "description": "Os moradores da vila organizam um festival com apresentações de cada um."
+      },
+      {
+        "id": 5,
+        "showId": 1,
+        "title": "Os Espíritos Zombeteiros",
+        "description": "Chaves e Chiquinha acreditam que a vila está assombrada."
+      },
+      {
+        "id": 6,
+        "showId": 1,
+        "title": "A Casa da Bruxa",
+        "description": "As crianças entram na casa da Dona Clotilde por curiosidade."
+      },
+      {
+        "id": 7,
+        "showId": 1,
+        "title": "Vamos Todos a Acapulco",
+        "description": "O Senhor Barriga leva todos os moradores da vila para Acapulco."
+      },
+      {
+        "id": 8,
+        "showId": 1,
+        "title": "Os Insetos do Chaves",
+        "description": "Chaves traz um inseto para a vila e causa um alvoroço."
+      },
+      {
+        "id": 9,
+        "showId": 1,
+        "title": "O Aniversário do Quico",
+        "description": "Quico faz aniversário e todos preparam uma festa surpresa."
+      },
+      {
+        "id": 10,
+        "showId": 1,
+        "title": "O Cachorrinho",
+        "description": "Chaves encontra um cachorrinho e quer adotá-lo, mas enfrenta problemas com os vizinhos."
+      },
+      {
+        "id": 11,
+        "showId": 1,
+        "title": "A Pichorra",
+        "description": "Chaves e Quico tentam abrir uma garrafa muito estranha."
+      },
+      {
+        "id": 12,
+        "showId": 1,
+        "title": "A Falta de Água",
+        "description": "Um problema de água na vila faz com que todos entrem em pânico."
+      },
+      {
+        "id": 13,
+        "showId": 1,
+        "title": "Aulas de Boxe",
+        "description": "Seu Madruga dá aulas de boxe para Chaves."
+      },
+      {
+        "id": 14,
+        "showId": 1,
+        "title": "A Venda da Vila - Parte 1",
+        "description": "Seu Barriga decide vender a vila, e todos se preocupam com o futuro."
+      },
+      {
+        "id": 15,
+        "showId": 1,
+        "title": "A Venda da Vila - Parte 2",
+        "description": "Os moradores tentam convencer Seu Barriga a não vender a vila."
+      },
+      {
+        "id": 16,
+        "showId": 1,
+        "title": "Viagem a Marte",
+        "description": "Chaves sonha que vai a Marte com Quico e Chiquinha."
+      },
+      {
+        "id": 17,
+        "showId": 1,
+        "title": "O Despejo do Seu Madruga",
+        "description": "Seu Barriga tenta despejar Seu Madruga, mas a vila inteira se mobiliza em apoio."
+      },
+      {
+        "id": 18,
+        "showId": 1,
+        "title": "Os Refrescos do Chaves",
+        "description": "Chaves tenta vender refrescos na vila com resultados desastrosos."
+      },
+      {
+        "id": 19,
+        "showId": 1,
+        "title": "Os Carpinteiros - Parte 1",
+        "description": "Chaves e Seu Madruga trabalham como carpinteiros na casa da Dona Florinda."
+      },
+      {
+        "id": 20,
+        "showId": 1,
+        "title": "Os Carpinteiros - Parte 2",
+        "description": "Continuação dos percalços de Chaves e Seu Madruga na carpintaria."
+      },
+      {
+        "id": 21,
+        "showId": 1,
+        "title": "A Insônia do Seu Madruga",
+        "description": "Seu Madruga não consegue dormir e Chaves tenta ajudar."
+      },
+      {
+        "id": 22,
+        "showId": 1,
+        "title": "A Exposição de Arte",
+        "description": "Professor Girafales organiza uma exposição de arte e Chaves faz uma bagunça."
+      },
+      {
+        "id": 23,
+        "showId": 1,
+        "title": "A Grande Festa - Parte 1",
+        "description": "É aniversário do Seu Madruga e a vila toda se prepara para a festa."
+      },
+      {
+        "id": 24,
+        "showId": 1,
+        "title": "A Grande Festa - Parte 2",
+        "description": "A festa de Seu Madruga está cheia de surpresas e confusões."
+      },
+      {
+        "id": 25,
+        "showId": 1,
+        "title": "Chaves o Rei do Espadachim",
+        "description": "Depois de assistir a um filme de espadachins, Chaves tenta imitar os heróis."
+      },
+      {
+        "id": 26,
+        "showId": 1,
+        "title": "Seu Madruga Sapateiro - Parte 1",
+        "description": "Seu Madruga tenta consertar sapatos para ganhar a vida."
+      },
+      {
+        "id": 27,
+        "showId": 1,
+        "title": "Seu Madruga Sapateiro - Parte 2",
+        "description": "Seu Madruga continua sua aventura como sapateiro."
+      },
+      {
+        "id": 28,
+        "showId": 1,
+        "title": "A Bandinha da Vila",
+        "description": "Chaves e seus amigos formam uma banda musical com instrumentos improvisados."
+      },
+      {
+        "id": 29,
+        "showId": 1,
+        "title": "O Disco Voador",
+        "description": "Chaves acredita ter visto um disco voador e causa um alvoroço na vila."
+      },
+      {
+        "id": 30,
+        "showId": 1,
+        "title": "A Perna Quebrada",
+        "description": "Quico quebra a perna e as crianças da vila tentam ajudá-lo."
+      },
+      {
+        "id": 31,
+        "showId": 1,
+        "title": "A Volta da Perna de Pau",
+        "description": "Um velho amigo de Seu Madruga, que é um pirata com uma perna de pau, visita a vila."
+      },
+      {
+        "id": 32,
+        "showId": 1,
+        "title": "A Casa Mal-Assombrada",
+        "description": "Chaves e Chiquinha exploram uma casa que dizem ser mal-assombrada."
+      },
+      {
+        "id": 33,
+        "showId": 1,
+        "title": "Vamos ao Cinema",
+        "description": "O pessoal da vila se prepara para ir ao cinema, mas Chaves causa confusões na fila."
+      },
+      {
+        "id": 34,
+        "showId": 1,
+        "title": "Chaves e o Ladrão da Vila",
+        "description": "Um ladrão anda solto pela vila e Chaves é confundido com ele."
+      },
+      {
+        "id": 35,
+        "showId": 1,
+        "title": "O Dia Internacional da Mulher",
+        "description": "Seu Madruga tenta ensinar a Chaves a importância do Dia Internacional da Mulher."
+      },
+      {
+        "id": 36,
+        "showId": 1,
+        "title": "A Nova Roupa do Chaves",
+        "description": "Chaves ganha uma roupa nova e todos na vila ficam surpresos com a mudança."
+      },
+      {
+        "id": 37,
+        "showId": 1,
+        "title": "O Índio Chaves",
+        "description": "Chaves decide se pintar como um índio, mas acaba manchando toda a vila de vermelho."
+      },
+      {
+        "id": 38,
+        "showId": 1,
+        "title": "O Cavaleiro das Mil Encrencas",
+        "description": "Chaves imagina ser um cavaleiro medieval e enfrenta 'dragões' na vila."
+      },
+      {
+        "id": 39,
+        "showId": 1,
+        "title": "O Aniversário do Professor Girafales",
+        "description": "Os moradores da vila planejam uma surpresa para o aniversário do Professor Girafales."
+      },
+      {
+        "id": 40,
+        "showId": 1,
+        "title": "Seu Madruga Fotógrafo",
+        "description": "Seu Madruga tenta ganhar a vida como fotógrafo com a ajuda das crianças."
+      },
+      {
+        "id": 41,
+        "showId": 1,
+        "title": "O Concurso de Miss Vila",
+        "description": "A vila organiza um concurso de beleza e Dona Clotilde insiste em participar."
+      },
+      {
+        "id": 42,
+        "showId": 1,
+        "title": "Chaves e o Exame Surpresa",
+        "description": "Professor Girafales faz um exame surpresa e Chaves não estudou."
+      },
+      {
+        "id": 43,
+        "showId": 1,
+        "title": "A Bruxa Está Solta",
+        "description": "É sexta-feira 13 e Chaves acredita que Dona Clotilde se transformou em bruxa."
+      },
+      {
+        "id": 44,
+        "showId": 2,
+        "title": "O Roubo da Múmia",
+        "description": "Chapolin Colorado tem que recuperar uma múmia antiga que foi roubada pelo Racha Cuca."
+      },
+      {
+        "id": 45,
+        "showId": 2,
+        "title": "O Retorno do Pirata Alma Negra",
+        "description": "O Pirata Alma Negra busca vingança e cabe ao Chapolin detê-lo antes que seja tarde demais."
+      },
+      {
+        "id": 46,
+        "showId": 2,
+        "title": "O Poucas Trancas e o Banco",
+        "description": "Poucas Trancas tenta assaltar um banco e Chapolin é chamado para impedir o crime."
+      },
+      {
+        "id": 47,
+        "showId": 2,
+        "title": "A Invenção do Cientista Louco",
+        "description": "Um cientista louco cria uma invenção que pode destruir o mundo e Chapolin tem que pará-lo."
+      },
+      {
+        "id": 48,
+        "showId": 2,
+        "title": "Bruxa Baratuxa na Vila",
+        "description": "A Bruxa Baratuxa está causando travessuras e Chapolin é chamado para salvar o dia."
+      },
+      {
+        "id": 49,
+        "showId": 2,
+        "title": "Super Sam e a Energia Infinita",
+        "description": "Super Sam está em busca de uma fonte de energia infinita e Chapolin tem que garantir que ela não caia em mãos erradas."
+      },
+      {
+        "id": 50,
+        "showId": 2,
+        "title": "O Resgate de Rosa, a Rumorosa",
+        "description": "Rosa, a Rumorosa é sequestrada e Chapolin é convocado para uma missão de resgate."
+      },
+      {
+        "id": 51,
+        "showId": 2,
+        "title": "Conde Terra Nova e o Segredo Imortal",
+        "description": "O Conde Terra Nova quer descobrir o segredo da imortalidade e Chapolin enfrenta um dilema moral ao tentar detê-lo."
+      },
+      {
+        "id": 52,
+        "showId": 2,
+        "title": "A Menina do Barril e o Orfanato",
+        "description": "Chapolin ajuda a Menina do Barril a salvar um orfanato de ser demolido por um construtor malvado."
+      }
+    ],
+    "quotes": [
+      {
+        "id": 1,
+        "showId": 1,
+        "characterId": 1,
+        "text": "Foi sem querer querendo."
+      },
+      {
+        "id": 2,
+        "showId": 2,
+        "characterId": 12,
+        "text": "Não contavam com minha astúcia!"
+      },
+      {
+        "id": 3,
+        "showId": 1,
+        "characterId": 2,
+        "text": "Tem que pagar o aluguel!"
+      },
+      {
+        "id": 4,
+        "showId": 1,
+        "characterId": 3,
+        "text": "Gentalha, gentalha!"
+      },
+      {
+        "id": 5,
+        "showId": 1,
+        "characterId": 4,
+        "text": "Isso, isso, isso!"
+      },
+      {
+        "id": 6,
+        "showId": 1,
+        "characterId": 5,
+        "text": "Vá lavar o seu latão!"
+      },
+      {
+        "id": 7,
+        "showId": 1,
+        "characterId": 6,
+        "text": "Tá tá tá tá tá!"
+      },
+      {
+        "id": 8,
+        "showId": 1,
+        "characterId": 7,
+        "text": "Você não vai com a minha cara?"
+      },
+      {
+        "id": 9,
+        "showId": 1,
+        "characterId": 8,
+        "text": "Papai, quando nós vamos pagar o aluguel?"
+      },
+      {
+        "id": 10,
+        "showId": 1,
+        "characterId": 9,
+        "text": "Eu te dou outra, mas não chore mais!"
+      },
+      {
+        "id": 11,
+        "showId": 1,
+        "characterId": 10,
+        "text": "E o que que tem a ver o trigo com o abridor de garrafas?"
+      },
+      {
+        "id": 12,
+        "showId": 1,
+        "characterId": 11,
+        "text": "Prefiro evitar a fadiga."
+      },
+      {
+        "id": 13,
+        "showId": 2,
+        "characterId": 12,
+        "text": "Palma, palma, não priemos cânico!"
+      },
+      {
+        "id": 14,
+        "showId": 2,
+        "characterId": 12,
+        "text": "Todos os meus movimentos são friamente calculados."
+      },
+      {
+        "id": 15,
+        "showId": 2,
+        "characterId": 13,
+        "text": "Sigam-me os bons!"
+      },
+      {
+        "id": 16,
+        "showId": 2,
+        "characterId": 14,
+        "text": "Silêncio! Meus movimentos precisam ser silenciosos como um gato."
+      },
+      {
+        "id": 17,
+        "showId": 2,
+        "characterId": 15,
+        "text": "Se aproveitam de minha nobreza."
+      },
+      {
+        "id": 18,
+        "showId": 2,
+        "characterId": 16,
+        "text": "Mais vale um 'tomara que caia' do que um 'já caiu'."
+      },
+      {
+        "id": 19,
+        "showId": 2,
+        "characterId": 17,
+        "text": "Não é verdade que daqui a mil anos nós vamos estar mortos?"
+      },
+      {
+        "id": 20,
+        "showId": 1,
+        "characterId": 2,
+        "text": "A vingança nunca é plena, mata a alma e a envenena."
+      },
+      {
+        "id": 21,
+        "showId": 2,
+        "characterId": 19,
+        "text": "Eu suspeitava desde o princípio."
+      },
+      {
+        "id": 22,
+        "showId": 2,
+        "characterId": 20,
+        "text": "Em um filme, o mocinho bate e ninguém conta as pancadas."
+      }
+    ],
+    "roles": [
+      {
+        "id": 1,
+        "showId": 1,
+        "castMemberId": 1,
+        "characterId": 1
+      },
+      {
+        "id": 2,
+        "showId": 1,
+        "castMemberId": 2,
+        "characterId": 2
+      },
+      {
+        "id": 3,
+        "showId": 1,
+        "castMemberId": 3,
+        "characterId": 3
+      },
+      {
+        "id": 4,
+        "showId": 1,
+        "castMemberId": 4,
+        "characterId": 4
+      },
+      {
+        "id": 5,
+        "showId": 1,
+        "castMemberId": 5,
+        "characterId": 5
+      },
+      {
+        "id": 6,
+        "showId": 1,
+        "castMemberId": 6,
+        "characterId": 6
+      },
+      {
+        "id": 7,
+        "showId": 1,
+        "castMemberId": 7,
+        "characterId": 7
+      },
+      {
+        "id": 8,
+        "showId": 1,
+        "castMemberId": 7,
+        "characterId": 8
+      },
+      {
+        "id": 9,
+        "showId": 1,
+        "castMemberId": 8,
+        "characterId": 9
+      },
+      {
+        "id": 10,
+        "showId": 1,
+        "castMemberId": 9,
+        "characterId": 10
+      },
+      {
+        "id": 11,
+        "showId": 1,
+        "castMemberId": 10,
+        "characterId": 11
+      },
+      {
+        "id": 12,
+        "showId": 2,
+        "castMemberId": 1,
+        "characterId": 12
+      },
+      {
+        "id": 13,
+        "showId": 2,
+        "castMemberId": 1,
+        "characterId": 13
+      },
+      {
+        "id": 14,
+        "showId": 2,
+        "castMemberId": 1,
+        "characterId": 14
+      },
+      {
+        "id": 15,
+        "showId": 2,
+        "castMemberId": 2,
+        "characterId": 15
+      },
+      {
+        "id": 16,
+        "showId": 2,
+        "castMemberId": 2,
+        "characterId": 16
+      },
+      {
+        "id": 17,
+        "showId": 2,
+        "castMemberId": 2,
+        "characterId": 17
+      },
+      {
+        "id": 18,
+        "showId": 2,
+        "castMemberId": 2,
+        "characterId": 18
+      },
+      {
+        "id": 19,
+        "showId": 2,
+        "castMemberId": 2,
+        "characterId": 19
+      },
+      {
+        "id": 20,
+        "showId": 2,
+        "castMemberId": 3,
+        "characterId": 20
+      },
+      {
+        "id": 21,
+        "showId": 2,
+        "castMemberId": 6,
+        "characterId": 21
+      },
+      {
+        "id": 22,
+        "showId": 2,
+        "castMemberId": 4,
+        "characterId": 22
+      },
+      {
+        "id": 23,
+        "showId": 2,
+        "castMemberId": 5,
+        "characterId": 23
+      },
+      {
+        "id": 24,
+        "showId": 2,
+        "castMemberId": 1,
+        "characterId": 24
+      },
+      {
+        "id": 25,
+        "showId": 2,
+        "castMemberId": 2,
+        "characterId": 25
+      },
+      {
+        "id": 26,
+        "showId": 2,
+        "castMemberId": 1,
+        "characterId": 26
+      },
+      {
+        "id": 27,
+        "showId": 2,
+        "castMemberId": 6,
+        "characterId": 27
+      },
+      {
+        "id": 28,
+        "showId": 2,
+        "castMemberId": 7,
+        "characterId": 28
+      }
+    ],
+    "shows": [
+      {
+        "id": 1,
+        "name": "Chaves",
+        "description": "As aventuras de um garoto pobre e seus amigos."
+      },
+      {
+        "id": 2,
+        "name": "Chapolin",
+        "description": "As trapalhadas de um herói atrapalhado."
+      }
+    ]
+  }
